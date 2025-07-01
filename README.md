@@ -34,7 +34,7 @@
 - **Filters**: Country, State, City.    
 
 ## 🚀 **How to Use**  
-1. Download the `PowerBI_Project1.pbix` file.  
+1. Download the `Project1_BI.pbix` file.  
 2. Open in Power BI Desktop (ensure you have the latest version).  
 3. Connect to your data source or use the provided sample dataset.  
 4. Explore filters and hover interactions for deeper insights.
