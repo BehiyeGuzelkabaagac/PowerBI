@@ -1,6 +1,6 @@
 # 📊 Global Superstore Sales Analytics - Power BI Project 1  
 
-This project analyzes sales data from the **Global Superstore Dataset** using Power BI, focusing on data modeling, DAX calculations, and interactive visualizations to derive business insights.  
+🚀 This project analyzes sales data from the **Global Superstore Dataset** using Power BI, focusing on data modeling, DAX calculations, and interactive visualizations to derive business insights.  
 
 ## 🔍 **Project Overview**  
 - **Objective**: Transform raw sales data into a structured data warehouse model and create an interactive dashboard for performance tracking.  
@@ -34,9 +34,15 @@ This project analyzes sales data from the **Global Superstore Dataset** using Po
 - **Filters**: Country, State, City.    
 
 ## 🚀 **How to Use**  
-1. Download the `GlobalSuperstore.pbix` file.  
+1. Download the `PowerBI_Project1.pbix` file.  
 2. Open in Power BI Desktop (ensure you have the latest version).  
 3. Connect to your data source or use the provided sample dataset.  
-4. Explore filters and hover interactions for deeper insights.  
+4. Explore filters and hover interactions for deeper insights.
+
+## 📬 Contact Me
+💡 Feel free to share your thoughts or contribute to this project!
+- 📧 Email: behiyegka@gmail.com
+- 💼[Linkedin](https://www.linkedin.com/in/behiye-guzelkabaagac/)
+- 🐙 [GitHub](https://github.com/BehiyeGuzelkabaagac)
  
  
